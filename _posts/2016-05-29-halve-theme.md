@@ -14,7 +14,7 @@ tag:
 
 <a href="{{ site.url }}/images/halve-home-image.png"><img src="{{ site.url }}/images/halve-home-image.png" alt="Home Page of Halve"></a>  
 
-<center><b>Halve</b> is a stylish, two-column jekyll theme.</center><br>
+<center><b>Halve</b> Esto es una prueba de cómo queda esto cuando lo ves</center><br>
      
  This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)). I couldn't stop myself to port this theme when I saw his site. And he kindly gave me permission to share this with you.
 
