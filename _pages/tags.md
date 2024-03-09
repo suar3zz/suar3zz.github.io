@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tag Archive
-description: "An archive of posts sorted by tag."
+title: Palabras Clave
+description: "Busca por las palabras que necesites para acceder a lo que busques :)"
 permalink: /tags.html
 ---
 
