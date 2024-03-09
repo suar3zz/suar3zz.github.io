@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# whoAmI
+# #whoami
 
 Mi nombre es David Suárez García, a.k.a suar3zz. Soy un entusiasta de la Ciberseguridad y, en concreto, del Read Team.
 
