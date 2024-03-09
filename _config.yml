@@ -1,9 +1,9 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: suar3zz
+description: Mi sitio web
+url: https://suar3zz.github.io
 logo: halve.png                                       # Site logo
-locale: en_US
+locale: es_ES
 
 # Left Block Images
 background:
@@ -33,7 +33,7 @@ sass:
 #google.plus:        username
 twitter:            username
 #facebook:           username
-github:             username
+github:             suar3zz
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
