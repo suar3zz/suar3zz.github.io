@@ -20,7 +20,7 @@ tag:
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Halve&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
       
-## Installation and Quick Usage
+## Fase de reconocimiento
 * Fork the [Halve repo](https://github.com/TaylanTatli/Halve/fork)
 * Edit `_config.yml` file.
 * Edit `index.md`.
