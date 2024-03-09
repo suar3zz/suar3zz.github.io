@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Halve Jekyll Theme"
+title:  "Máquina eLection - VulnHub"
 date:   2016-05-29
 excerpt: "Stylish, two-column Jekyll theme for your blog."
 tag:
